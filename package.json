@@ -1,0 +1,17 @@
+{
+  "name": "code-visualization-test",
+  "version": "1.0.0",
+  "description": "Tests for code visualization project",
+  "main": "index.js",
+  "scripts": {
+    "test": "rm -rf test/ && tsc && mocha --recursive --timout 6000"
+  },
+  "author": "Natan Portilho",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.12.14",
+    "@types/selenium-webdriver": "^4.0.5",
+    "mocha": "^6.2.2"
+  }
+}
