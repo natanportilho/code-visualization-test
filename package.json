@@ -12,6 +12,6 @@
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.12.14",
     "@types/selenium-webdriver": "^4.0.5",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
